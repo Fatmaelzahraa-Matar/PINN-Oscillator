@@ -108,4 +108,4 @@ requirements.txt
 
 ## Author
 
-[Your name], M.Sc. Structural Engineering, Istanbul Technical University
+Fatmaelzahraa Matar, M.Sc. Structural Engineering, Istanbul Technical University
